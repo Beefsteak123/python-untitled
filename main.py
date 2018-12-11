@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def main (msg):
-    // Print a message
+    // adding a second command
     print (msg)
 
 main ("Hello People")
